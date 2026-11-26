@@ -1,4 +1,7 @@
+
 # FinAllyAI - Your Financial Copilot 🤖💰
+
+![FinAllyAI Screenshot](https://i.postimg.cc/0QyPjyWs/Screenshot-20261114-190459-Chrome.jpg)
 
 FinAllyAI is an AI-powered financial assistant designed for young people in Africa. It helps users manage their budget, track goals, and understand financial markets through a conversational interface.
 
